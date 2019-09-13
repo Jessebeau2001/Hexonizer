@@ -12,9 +12,7 @@
                 "C:\\Program Files (x86)\\Arduino\\libraries\\LiquidCrystal_I2\\**",
                 "${workspaceFolder}/**"
             ],
-            "forcedInclude": [
-                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
-            ],
+            "forcedInclude": [],
             "intelliSenseMode": "gcc-x64",
             "compilerPath": "C:\\Users\\jesse\\Documents\\Ming\\mingw32\\bin\\g++.exe",
             "cStandard": "c11",
